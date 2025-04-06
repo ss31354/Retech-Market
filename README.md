@@ -3,15 +3,12 @@
 
 ---
 
-## ✅ What's Working  
+## ✅ What will be in the project  
 - **User accounts**: Sign up, login, edit profile  
 - **Listings**: Post devices (title, price, photo)  
 - **Interested button**: Save items to your profile  
 - **Contact sellers**: WhatsApp links on listings email link on view more details
-
-## 🛠️ In Progress  
-- Search/filter listings  
-- Admin dashboard (basic)  
+- **Search/category** listings  
 
 ## 📱 Screens  
 | Page          | Description                          | File                          |
@@ -22,7 +19,7 @@
 
 
 ## 👥 Team  
-**Salman Syed* **Urooj Ali**  
+**Salman Syed** **Urooj Ali**  
 - Set up Laravel & database  
 - Made listings work  
 - Designed all screens in Figma  
