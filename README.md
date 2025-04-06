@@ -1,5 +1,5 @@
 # 🔄 Retech Market  
-*A simple marketplace to buy/sell used electronics between students*
+*A simple marketplace to buy/sell used electronics between people*
 
 ---
 
@@ -19,7 +19,7 @@
 
 
 ## 👥 Team  
-**Salman Syed** **Urooj Ali**  
+**Salman Syed & Urooj Ali Team Moderator: Professor Besnik Selimi**  
 - Set up Laravel & database  
 - Made listings work  
 - Designed all screens in Figma  
